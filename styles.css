@@ -25,6 +25,7 @@ h1 {
 
 .q-card {
   border: thick dotted hotpink;
+  background-color: #f8f2f3;
   color: pink;
   display: flex;
   align-items: center;
